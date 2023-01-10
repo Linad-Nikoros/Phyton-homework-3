@@ -6,4 +6,4 @@ while num_1 > 0:
     Remains=str(num_1 % 2)+Remains
     num_1//=2
 
-print(f'Число {num_1} в двоичной системе измерения: {Remains}')
+print(f' В двоичной системе измерения число иимеет вид: {Remains}')
